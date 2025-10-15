@@ -1,7 +1,7 @@
 ![Banner](https://i.imgur.com/eyXG1oz.png)
 
 # 8b8tCore
-*Folia Core Plugin for 8b8t and Anarchy Servers*
+*8b8t core but better (kinda)*
 <p align="center">
   <img src="https://img.shields.io/github/stars/XeraPlugins/8b8tCore.svg?style=for-the-badge&label=Stars&color=yellow" alt="Stars" height="22">
   <img src="https://img.shields.io/github/forks/XeraPlugins/8b8tCore.svg?style=for-the-badge&label=Forks&color=blue" alt="Forks" height="22">
