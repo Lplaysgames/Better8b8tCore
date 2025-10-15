@@ -1,4 +1,4 @@
-![Banner](<blockquote class="imgur-embed-pub" lang="en" data-id="a/nMThTAL" data-context="false" ><a href="//imgur.com/a/nMThTAL"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>)
+![Banner](https://i.imgur.com/eyXG1oz.png)
 
 # 8b8tCore
 *Folia Core Plugin for 8b8t and Anarchy Servers*
