@@ -1,4 +1,4 @@
-![Banner](https://i.imgur.com/hwRDyes.jpeg)
+![Banner](https://imgur.com/eyXG1oz)
 
 # 8b8tCore
 *Folia Core Plugin for 8b8t and Anarchy Servers*
